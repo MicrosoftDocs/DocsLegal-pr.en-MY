@@ -1,19 +1,22 @@
 ---
-# required metadata
-
 title: General Data Protection Regulation (GDPR)
 description: GDPR docs.microsoft.com.
 ms.topic: article
 layout: ContentPage
+ms.openlocfilehash: 404e4ccc5cb1d791fb46afc81c7d9b7bc656121c
+ms.sourcegitcommit: 6925c5b4ad2faff22d877acd2e07e09d289b5507
+ms.translationtype: HT
+ms.contentlocale: en-MY
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "77570475"
 ---
-
-# Microsoft’s GDPR Commitments to Customers of our Generally Available Enterprise Software Products
+# <a name="microsofts-gdpr-commitments-to-customers-of-our-generally-available-enterprise-software-products"></a>Microsoft’s GDPR Commitments to Customers of our Generally Available Enterprise Software Products
 
 **Introduction**
 
 The European Union’s General Data Protection Regulation (GDPR) sets a new bar globally for privacy rights, information security and compliance. At Microsoft, we believe privacy is a fundamental right and that the GDPR is an important step forward in protecting and enabling the privacy rights of individuals.     
 
-Microsoft is committed to its own compliance with the GDPR, as well as to provide an array of products, features, documentation and resources to support our customers in meeting their compliance obligations under the GDPR. Below is a description of Microsoft’s contractual commitments to its customers concerning personal data collected from enterprise software:
+Microsoft is committed to its own compliance with the GDPR, as well as to provide an array of products, features, documentation and resources to support our customers in meeting their compliance obligations under the GDPR. The following is a description of Microsoft’s contractual commitments to its customers concerning personal data collected from enterprise software:
 
 **Does Microsoft make commitments to its customers with regard to the GDPR?**
 
@@ -31,12 +34,12 @@ For clarity, different or lesser commitments may apply to beta or preview softwa
 
 Microsoft’s GDPR Terms reflect the commitments required of processors in Article 28 of the GDPR.  Article 28 requires that processors commit to:
 
--	only use sub-processors with the consent of the controller and remain liable for sub-processors;
--	process personal data only on instructions from the controller, including with regard to transfers;
--	ensure that persons who process personal data are committed to confidentiality;
--	implement appropriate technical and organisational measures to ensure a level of personal data security appropriate to the risk;
--	assist the controller in its obligations to respond to data subjects’ requests to exercise their GDPR rights;
--	meet the GDPR’s breach notification and assistance requirements;
--	assist the controller with data protection impact assessments and consultation with supervisory authorities; 
--	delete or return personal data at the end of provision of services; and
--	support the controller with evidence of compliance with the GDPR.
+-   only use sub-processors with the consent of the controller and remain liable for sub-processors;
+-   process personal data only on instructions from the controller, including with regard to transfers;
+-   ensure that persons who process personal data are committed to confidentiality;
+-   implement appropriate technical and organisational measures to ensure a level of personal data security appropriate to the risk;
+-   assist the controller in its obligations to respond to data subjects’ requests to exercise their GDPR rights;
+-   meet the GDPR’s breach notification and assistance requirements;
+-   assist the controller with data protection impact assessments and consultation with supervisory authorities; 
+-   delete or return personal data at the end of provision of services; and
+-   support the controller with evidence of compliance with the GDPR.
