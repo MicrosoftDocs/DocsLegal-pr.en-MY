@@ -2,31 +2,32 @@
 title: General Data Protection Regulation (GDPR)
 description: GDPR docs.microsoft.com.
 ms.topic: article
+ms.prod: legal
 layout: ContentPage
-ms.openlocfilehash: 404e4ccc5cb1d791fb46afc81c7d9b7bc656121c
-ms.sourcegitcommit: 6925c5b4ad2faff22d877acd2e07e09d289b5507
+ms.openlocfilehash: 91a5f1a3c93dbf5e50ab9842e63747fc9e443fe3
+ms.sourcegitcommit: 92176e791cecbf38ca4118125466148737f3e45f
 ms.translationtype: HT
 ms.contentlocale: en-MY
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "77570475"
+ms.lasthandoff: 09/29/2021
+ms.locfileid: "129189150"
 ---
 # <a name="microsofts-gdpr-commitments-to-customers-of-our-generally-available-enterprise-software-products"></a>Microsoft’s GDPR Commitments to Customers of our Generally Available Enterprise Software Products
 
 **Introduction**
 
-The European Union’s General Data Protection Regulation (GDPR) sets a new bar globally for privacy rights, information security and compliance. At Microsoft, we believe privacy is a fundamental right and that the GDPR is an important step forward in protecting and enabling the privacy rights of individuals.     
+The European Union’s General Data Protection Regulation (GDPR) sets an important bar globally for privacy rights, information security and compliance. At Microsoft, we believe privacy is a fundamental right and that the GDPR is an important step forward in protecting and enabling the privacy rights of individuals.     
 
-Microsoft is committed to its own compliance with the GDPR, as well as to provide an array of products, features, documentation and resources to support our customers in meeting their compliance obligations under the GDPR. The following is a description of Microsoft’s contractual commitments to its customers concerning personal data collected from enterprise software:
+Microsoft is committed to its own compliance with the GDPR, as well as to provide an array of products, features, documentation and resources to support our customers in meeting their compliance obligations under the GDPR. The following is a description of Microsoft’s contractual commitments to its customers concerning personal data collected from enterprise software. (For software licensed from Microsoft Commercial Licensing programmes, refer directly to the Microsoft Products and Services Data Protection Addendum (DPA) at http://aka.ms/dpa)
 
 **Does Microsoft make commitments to its customers with regard to the GDPR?**
 
-Yes. The GDPR requires that controllers (such as organisations and developers using Microsoft’s enterprise online services) only use processors (such as Microsoft) that process personal data on the controller’s behalf and provide sufficient guarantees to meet key requirements of the GDPR. Microsoft has taken the proactive step of providing these commitments to all enterprise online service customers as part of their subscription agreements and to volume licensing customers as part of their enterprise agreements. Customers of other generally available enterprise software licensed by Microsoft or our affiliates also enjoy the benefits of Microsoft’s GDPR commitments, as described in this notice, to the extent the software processes personal data.
+Yes. The GDPR requires that controllers (such as organisations and developers using Microsoft’s enterprise online services) only use processors (such as Microsoft) that process personal data on the controller’s behalf and provide sufficient guarantees to meet key requirements of the GDPR. Microsoft provides these commitments to all customers of Microsoft Commerical Licensing programmes in the DPA. Customers of other generally available enterprise software licensed by Microsoft or our affiliates also enjoy the benefits of Microsoft’s GDPR commitments, as described in this notice, to the extent the software processes personal data.
 
 **Where can I find Microsoft’s contractual commitments with regard to the GDPR?**
 
-You can find Microsoft’s contractual commitments with regard to the GDPR in the [Online Services Data Protection Addendum](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=2&Keyword=DPA), which provides Microsoft’s privacy and security commitments, data processing terms and GDPR Terms for Microsoft-hosted services to which customers subscribe under a volume licensing agreement. These terms commit Microsoft to the requirements of processors in GDPR Article 28 and other relevant articles of the GDPR. 
+You can find Microsoft’s contractual commitments with regard to the GDPR (GDPR Terms) in the attachment to the DPA labelled "European Union General Data Protection Regulation Terms". Those terms commit Microsoft to the requirements of processors in GDPR Article 28 and other relevant articles of the GDPR. 
 
-Microsoft extends the GDPR Terms to all customers of generally available enterprise software products licensed by us or our affiliates under Microsoft software licence terms, effective as of 25 May 2018, regardless of the applicable version of the enterprise software, to the extent Microsoft is a processor or sub-processor of personal data in connection with such software, and so long as Microsoft continues to offer or support the version. Support details can be found in the Microsoft Lifecyle Policy at https://support.microsoft.com/en-us/lifecycle.
+Microsoft extends the GDPR Terms to all customers of generally available enterprise software products licensed by us or our affiliates under Microsoft software licence terms, effective as of 25 May 2018, regardless of the applicable version of the enterprise software, to the extent Microsoft is a processor or sub-processor of personal data in connection with such software, and so long as Microsoft continues to offer or support the version. Support details can be found in the Microsoft Lifecyle Policy at https://support.microsoft.com/lifecycle.
 
 For clarity, different or lesser commitments may apply to beta or preview software, software that has been materially modified, or any software licensed by Microsoft or our affiliates that is not made generally available to the public or otherwise not licensed under Microsoft software licence terms. Some products may collect and send to Microsoft telemetry or other data by default; product documentation provides information and instructions for how to turn off or configure such telemetry collection.
 
