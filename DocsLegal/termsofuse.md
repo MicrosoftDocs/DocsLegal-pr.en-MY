@@ -6,17 +6,16 @@ author: ''
 manager: ''
 ms.date: 09/19/2018
 ms.topic: article
-ms.prod: ''
-ms.service: ''
+ms.prod: legal
 ms.technology: ''
 ms.assetid: 674fcfe7-14bb-4fe1-8a25-cbe6eca5dcd1
 layout: ContentPage
-ms.openlocfilehash: 07d175c205ed781a0eef363d4e4015810c53c3bb
-ms.sourcegitcommit: 6925c5b4ad2faff22d877acd2e07e09d289b5507
+ms.openlocfilehash: 904b079bf9580699105e1f73836cb8f1127c101f
+ms.sourcegitcommit: 3cfbabd1cd8dac0925815ab42ae1640787749fb7
 ms.translationtype: HT
 ms.contentlocale: en-MY
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "77570883"
+ms.lasthandoff: 08/14/2021
+ms.locfileid: "122177374"
 ---
 # <a name="docsmicrosoftcom---terms-of-use"></a>docs.microsoft.com – Terms of use
 
@@ -34,7 +33,7 @@ Unless otherwise specified, the Services are for your personal and non-commercia
 
 ## <a name="privacy-and-protection-of-personal-information"></a>Privacy and Protection of Personal Information
 
-Your privacy is important to us. Please read the [Microsoft Privacy Statement](https://privacy.microsoft.com/en-us/privacystatement) (the "Privacy Statement") as it describes the types of data we collect from you and your devices, how we use that data, and the legal bases we have to process that data. The Privacy Statement also describes how Microsoft uses the Submissions (as defined herein), comments, ratings or reviews of the Services, communications, files, photos, documents, audio, digital works, livestreams, videos and any other content that you upload, store, broadcast or share through the Services, (collectively, "Your Content"). Where processing is based on consent and to the extent permitted by law, by agreeing to these Terms, you consent to Microsoft’s collection, use and disclosure of Your Content and data as described in the Privacy Statement. In some cases, we will provide separate notice and request your consent as referenced in the Privacy Statement.
+Your privacy is important to us. Please read the [Microsoft Privacy Statement](https://privacy.microsoft.com/privacystatement) (the "Privacy Statement") as it describes the types of data we collect from you and your devices, how we use that data and the legal bases we have to process that data. The Privacy Statement also describes how Microsoft uses the Submissions (as defined herein), comments, ratings or reviews of the Services, communications, files, photos, documents, audio, digital works, livestreams, videos and any other content that you upload, store, broadcast or share through the Services, (collectively, "Your Content"). Where processing is based on consent and to the extent permitted by law, by agreeing to these Terms, you consent to Microsoft’s collection, use and disclosure of Your Content and data as described in the Privacy Statement. In some cases, we will provide separate notice and request your consent as referenced in the Privacy Statement.
 
 **Public user information and Content**: The user information you provide (including your username, display name, avatar image, biography, your job title and organisation and your user achievements) may be viewed by others. You are only required to provide a username and display name in order to use the Tech Profile. All other fields are optional. You may update your username and display name at any time. Microsoft may also collect and publicly display the date that you registered with Tech Profile and your affiliation with Microsoft.
 
@@ -71,7 +70,7 @@ IN NO EVENT SHALL MICROSOFT AND/OR ITS RESPECTIVE SUPPLIERS BE LIABLE FOR ANY SP
 
 You may need a Microsoft account, Azure Active Directory account or Tech Profile account to access some of the Services.
 
-**Microsoft Account**. Your Microsoft account lets you sign in to products, websites and services provided by Microsoft and some Microsoft partners. You can create a Microsoft account by signing up [online](https://signup.live.com/). Microsoft accounts are subject to the [Microsoft Services Agreement](https://www.microsoft.com/en-us/servicesagreement/).
+**Microsoft Account**. Your Microsoft account lets you sign in to products, websites and services provided by Microsoft and some Microsoft partners. You can create a Microsoft account by signing up [online](https://signup.live.com/). Microsoft accounts are subject to the [Microsoft Services Agreement](https://www.microsoft.com/servicesagreement/).
 
 **Azure Active Directory Account**. You may have an account with Microsoft through an organisation to which you belong. Please contact your organisation’s administrator for information about this account.
 
