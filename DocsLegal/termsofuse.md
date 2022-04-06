@@ -11,11 +11,11 @@ ms.technology: ''
 ms.assetid: 674fcfe7-14bb-4fe1-8a25-cbe6eca5dcd1
 layout: ContentPage
 ms.openlocfilehash: 904b079bf9580699105e1f73836cb8f1127c101f
-ms.sourcegitcommit: 3cfbabd1cd8dac0925815ab42ae1640787749fb7
+ms.sourcegitcommit: 608034089d1ea70317f64b4562eee1614c447d8f
 ms.translationtype: HT
 ms.contentlocale: en-MY
-ms.lasthandoff: 08/14/2021
-ms.locfileid: "122177374"
+ms.lasthandoff: 04/01/2022
+ms.locfileid: "141347459"
 ---
 # <a name="docsmicrosoftcom---terms-of-use"></a>docs.microsoft.com – Terms of use
 
