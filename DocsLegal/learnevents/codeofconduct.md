@@ -1,15 +1,15 @@
 ---
 # required metadata
 
-title: Learn TV Code of Conduct
-description: Code of Conduct for Microsoft Learn TV
+title: Learn Events Code of Conduct
+description: Code of Conduct for events streamed on Microsoft Learn
 ms.topic: article
 layout: ContentPage
 ms.author: brstegge
 ms.date: 11/02/2020
 ---
 
-# Learn TV Code of Conduct
+# Learn Events Code of Conduct
 
 Microsoft's mission is to empower every person and every organization on the planet to achieve more. This includes all Microsoft events and gatherings, including on digital platforms, where we seek to create a respectful, friendly, fun, and inclusive experience for all participants.
 

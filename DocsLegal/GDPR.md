@@ -5,11 +5,11 @@ ms.topic: article
 ms.prod: legal
 layout: ContentPage
 ms.openlocfilehash: 91a5f1a3c93dbf5e50ab9842e63747fc9e443fe3
-ms.sourcegitcommit: 92176e791cecbf38ca4118125466148737f3e45f
+ms.sourcegitcommit: 608034089d1ea70317f64b4562eee1614c447d8f
 ms.translationtype: HT
 ms.contentlocale: en-MY
-ms.lasthandoff: 09/29/2021
-ms.locfileid: "129189150"
+ms.lasthandoff: 04/01/2022
+ms.locfileid: "141347342"
 ---
 # <a name="microsofts-gdpr-commitments-to-customers-of-our-generally-available-enterprise-software-products"></a>Microsoft’s GDPR Commitments to Customers of our Generally Available Enterprise Software Products
 
@@ -21,7 +21,7 @@ Microsoft is committed to its own compliance with the GDPR, as well as to provid
 
 **Does Microsoft make commitments to its customers with regard to the GDPR?**
 
-Yes. The GDPR requires that controllers (such as organisations and developers using Microsoft’s enterprise online services) only use processors (such as Microsoft) that process personal data on the controller’s behalf and provide sufficient guarantees to meet key requirements of the GDPR. Microsoft provides these commitments to all customers of Microsoft Commerical Licensing programmes in the DPA. Customers of other generally available enterprise software licensed by Microsoft or our affiliates also enjoy the benefits of Microsoft’s GDPR commitments, as described in this notice, to the extent the software processes personal data.
+Yes. The GDPR requires that controllers (such as organisations and developers using Microsoft’s enterprise online services) only use processors (such as Microsoft) that process personal data on the controller’s behalf and provide sufficient guarantees to meet key requirements of the GDPR. Microsoft provides these commitments to all customers of Microsoft Commerical Licensing programs in the DPA. Customers of other generally available enterprise software licensed by Microsoft or our affiliates also enjoy the benefits of Microsoft’s GDPR commitments, as described in this notice, to the extent the software processes personal data.
 
 **Where can I find Microsoft’s contractual commitments with regard to the GDPR?**
 
