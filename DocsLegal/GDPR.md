@@ -1,15 +1,15 @@
 ---
 title: General Data Protection Regulation (GDPR)
-description: GDPR docs.microsoft.com.
+description: GDPR learn.microsoft.com.
 ms.topic: article
 ms.prod: legal
 layout: ContentPage
-ms.openlocfilehash: 91a5f1a3c93dbf5e50ab9842e63747fc9e443fe3
-ms.sourcegitcommit: 608034089d1ea70317f64b4562eee1614c447d8f
+ms.openlocfilehash: 1fd23b342c8822a527df59cf1785eb7cb1d0d9a4
+ms.sourcegitcommit: 4992204ccdcaf82cb72bf4aafe4526dbbaff2564
 ms.translationtype: HT
 ms.contentlocale: en-MY
-ms.lasthandoff: 04/01/2022
-ms.locfileid: "141347342"
+ms.lasthandoff: 09/27/2022
+ms.locfileid: "147979456"
 ---
 # <a name="microsofts-gdpr-commitments-to-customers-of-our-generally-available-enterprise-software-products"></a>Microsoft’s GDPR Commitments to Customers of our Generally Available Enterprise Software Products
 
@@ -25,7 +25,7 @@ Yes. The GDPR requires that controllers (such as organisations and developers us
 
 **Where can I find Microsoft’s contractual commitments with regard to the GDPR?**
 
-You can find Microsoft’s contractual commitments with regard to the GDPR (GDPR Terms) in the attachment to the DPA labelled "European Union General Data Protection Regulation Terms". Those terms commit Microsoft to the requirements of processors in GDPR Article 28 and other relevant articles of the GDPR. 
+You can find Microsoft’s contractual commitments with regard to the GDPR (GDPR Terms) in the attachment to the DPA labelled "European Union General Data Protection Regulation Terms." Those terms commit Microsoft to the requirements of processors in GDPR Article 28 and other relevant articles of the GDPR. 
 
 Microsoft extends the GDPR Terms to all customers of generally available enterprise software products licensed by us or our affiliates under Microsoft software licence terms, effective as of 25 May 2018, regardless of the applicable version of the enterprise software, to the extent Microsoft is a processor or sub-processor of personal data in connection with such software, and so long as Microsoft continues to offer or support the version. Support details can be found in the Microsoft Lifecyle Policy at https://support.microsoft.com/lifecycle.
 
