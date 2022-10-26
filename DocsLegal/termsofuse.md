@@ -10,12 +10,12 @@ ms.prod: legal
 ms.technology: ''
 ms.assetid: 674fcfe7-14bb-4fe1-8a25-cbe6eca5dcd1
 layout: ContentPage
-ms.openlocfilehash: e3775ca714120078c7b616711a00ee5ca2959b22
-ms.sourcegitcommit: 4992204ccdcaf82cb72bf4aafe4526dbbaff2564
+ms.openlocfilehash: f20755cc9856e52068eb3189dbd12ebf90e4761c
+ms.sourcegitcommit: cf1db1b6138ad34406183a2735eab11b3293b130
 ms.translationtype: HT
 ms.contentlocale: en-MY
-ms.lasthandoff: 09/27/2022
-ms.locfileid: "147979728"
+ms.lasthandoff: 10/21/2022
+ms.locfileid: "148103199"
 ---
 # <a name="learnmicrosoftcom---terms-of-use"></a>docs.microsoft.com – Terms of Use
 
@@ -70,7 +70,7 @@ IN NO EVENT SHALL MICROSOFT AND/OR ITS RESPECTIVE SUPPLIERS BE LIABLE FOR ANY SP
 
 You may need a Microsoft account, Azure Active Directory account or Tech Profile account to access some of the Services.
 
-**Microsoft Account**. Your Microsoft account lets you sign in to products, websites and services provided by Microsoft and some Microsoft partners. You can create a Microsoft account by signing up [online](https://signup.live.com/). Microsoft accounts are subject to the [Microsoft Services Agreement](https://www.microsoft.com/servicesagreement/).
+**Microsoft Account**. Your Microsoft account lets you sign in to products, websites and services provided by Microsoft and some Microsoft partners. You can [create a Microsoft account by signing up online](https://signup.live.com/). Microsoft accounts are subject to the [Microsoft Services Agreement](https://www.microsoft.com/servicesagreement/).
 
 **Azure Active Directory Account**. You may have an account with Microsoft through an organisation to which you belong. Please contact your organisation’s administrator for information about this account.
 
