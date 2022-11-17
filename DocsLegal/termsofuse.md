@@ -1,31 +1,26 @@
 ---
+# required metadata
 title: Terms of Use
-description: Terms of use for documentation on docs.microsoft.com.
-keywords: ''
-author: ''
-manager: ''
-ms.date: 09/19/2018
+description: Terms of Use for documentation on learn.microsoft.com.
+keywords: null
+author: null
+manager: null
+ms.date: 09/17/2022
 ms.topic: article
 ms.prod: legal
-ms.technology: ''
+ms.technology: null
 ms.assetid: 674fcfe7-14bb-4fe1-8a25-cbe6eca5dcd1
 layout: ContentPage
-ms.openlocfilehash: 904b079bf9580699105e1f73836cb8f1127c101f
-ms.sourcegitcommit: 608034089d1ea70317f64b4562eee1614c447d8f
-ms.translationtype: HT
-ms.contentlocale: en-MY
-ms.lasthandoff: 04/01/2022
-ms.locfileid: "141347459"
 ---
-# <a name="docsmicrosoftcom---terms-of-use"></a>docs.microsoft.com – Terms of use
+# <a name="learnmicrosoftcom---terms-of-use"></a>docs.microsoft.com – Terms of Use
 
 ## <a name="acceptance-of-terms"></a>Acceptance of Terms
 
-The following Terms of Use ("TOU") apply to your use of the Microsoft Docs website ([https://docs.microsoft.com](https://docs.microsoft.com)), Tech Profile ([https://techprofile.microsoft.com](https://techprofile.microsoft.com)) and any associated services. Microsoft reserves the right to update the TOU at any time without notice to you. The most current version of the TOU can be reviewed by clicking on the "Terms of Use" hypertext link located at the bottom of our Web pages.
+The following Terms of Use ("TOU") apply to your use of the Microsoft Learn website ([https://learn.microsoft.com](https://learn.microsoft.com)), Tech Profile and any associated services. Microsoft reserves the right to update the TOU at any time without notice to you. The most current version of the TOU can be reviewed by clicking on the "Terms of Use" hypertext link located at the bottom of our Web pages.
 
 ## <a name="description-of-service"></a>Description of Service
 
-Through the Microsoft Docs website, Tech Profile and associated services, Microsoft provides you with access to a variety of resources, including interactive learning tutorials, documentation, videos, developer tools, download areas, communication forums and product information (collectively the "Services"). The Services, including any updates, enhancements, new features and/or the addition of any new Web properties, are subject to the TOU.
+Through the Microsoft Learn website, Tech Profile and associated services, Microsoft provides you with access to a variety of resources, including interactive learning tutorials, documentation, videos, developer tools, download areas, communication forums and product information (collectively the "Services"). The Services, including any updates, enhancements, new features and/or the addition of any new Web properties, are subject to the TOU.
 
 ## <a name="personal-and-non-commercial-use-limitation"></a>Personal and Non-Commercial Use Limitation
 
@@ -35,7 +30,7 @@ Unless otherwise specified, the Services are for your personal and non-commercia
 
 Your privacy is important to us. Please read the [Microsoft Privacy Statement](https://privacy.microsoft.com/privacystatement) (the "Privacy Statement") as it describes the types of data we collect from you and your devices, how we use that data and the legal bases we have to process that data. The Privacy Statement also describes how Microsoft uses the Submissions (as defined herein), comments, ratings or reviews of the Services, communications, files, photos, documents, audio, digital works, livestreams, videos and any other content that you upload, store, broadcast or share through the Services, (collectively, "Your Content"). Where processing is based on consent and to the extent permitted by law, by agreeing to these Terms, you consent to Microsoft’s collection, use and disclosure of Your Content and data as described in the Privacy Statement. In some cases, we will provide separate notice and request your consent as referenced in the Privacy Statement.
 
-**Public user information and Content**: The user information you provide (including your username, display name, avatar image, biography, your job title and organisation and your user achievements) may be viewed by others. You are only required to provide a username and display name in order to use the Tech Profile. All other fields are optional. You may update your username and display name at any time. Microsoft may also collect and publicly display the date that you registered with Tech Profile and your affiliation with Microsoft.
+**Public user Information and Content**: The user information you provide (including your username, display name, avatar image, biography, your job title and organisation and your user achievements) may be viewed by others. You are only required to provide a username and display name in order to use the Tech Profile. All other fields are optional. You may update your username and display name at any time. Microsoft may also collect and publicly display the date that you registered with Tech Profile and your affiliation with Microsoft.
 
 Any Content you post publicly may also be viewed by others. You may be able to delete certain types of Content after they have been posted, but not all types of Content can be deleted after they have been posted publicly.
 
@@ -70,17 +65,17 @@ IN NO EVENT SHALL MICROSOFT AND/OR ITS RESPECTIVE SUPPLIERS BE LIABLE FOR ANY SP
 
 You may need a Microsoft account, Azure Active Directory account or Tech Profile account to access some of the Services.
 
-**Microsoft Account**. Your Microsoft account lets you sign in to products, websites and services provided by Microsoft and some Microsoft partners. You can create a Microsoft account by signing up [online](https://signup.live.com/). Microsoft accounts are subject to the [Microsoft Services Agreement](https://www.microsoft.com/servicesagreement/).
+**Microsoft Account**. Your Microsoft account lets you sign in to products, websites and services provided by Microsoft and some Microsoft partners. You can [create a Microsoft account by signing up online](https://signup.live.com/). Microsoft accounts are subject to the [Microsoft Services Agreement](https://www.microsoft.com/servicesagreement/).
 
 **Azure Active Directory Account**. You may have an account with Microsoft through an organisation to which you belong. Please contact your organisation’s administrator for information about this account.
 
-**Tech Profile Account**. Your Tech Profile account lets you sign in to the Microsoft Docs website and use the associated services, including free access to learning resources, unblocking achievements, rating, commenting, posting content and using other interactive services. You can create a Tech Profile account by creating a username in [Tech Profile](https://techprofile.microsoft.com/) after logging-in with a Microsoft Account or Azure Active Directory Account.
+**Tech Profile Account**. Your Tech Profile account lets you sign in to the Microsoft Learn website and use the associated services, including free access to training resources, unblocking achievements, rating, commenting, posting content and using other interactive services. You can create a Tech Profile account by creating a username in Tech Profile after logging-in with a Microsoft Account or Azure Active Directory Account.
 
 You agree not to use any false, inaccurate or misleading information when signing up for your Tech Profile account. You are entirely responsible for maintaining the confidentiality of your password and account. Furthermore, you are entirely responsible for any and all activities that occur under your account. You agree to notify Microsoft immediately of any unauthorised use of your account or any other breach of security. Microsoft will not be liable for any loss that you may incur as a result of someone else using your password or account, either with or without your knowledge. However, you could be held liable for losses incurred by Microsoft or another party due to someone else using your account or password. You may not use anyone else's account at any time, without the permission of the account holder.
 
 If you create a Tech Profile account on behalf of an entity, such as your business or employer, you represent that you have the legal authority to bind that entity to these Terms. You cannot transfer your Tech Profile account credentials to another user or entity. To protect your account, keep your account details confidential. You are responsible for all activity that occurs under your Tech Profile account.
 
-You may close your Tech Profile Account by accessing your [Tech Profile account settings here](https://techprofile.microsoft.com/edit/).
+You may close your Tech Profile Account by accessing your Tech Profile account settings.
 
 ## <a name="no-unlawful-or-prohibited-use"></a>No Unlawful or Prohibited Use
 

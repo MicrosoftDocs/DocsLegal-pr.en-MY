@@ -1,10 +1,10 @@
 
-# [General Data Protection Regulation (GDPR)](gdpr.md)
-# [Azure Software Licensing Terms](/legal/information-protection/software-license-terms)
-# [Microsoft Developer Agreement](MDSA.md)
-# [Terms of Use](/legal/termsofuse)
-# [Learn TV Code of Conduct](/legal/learntv/codeofconduct)
-# [Terms of Learn Data Sharing](/legal/learn/reporting/terms)
+# <a name="general-data-protection-regulation-gdpr"></a>[General Data Protection Regulation (GDPR)](gdpr.md)
+# <a name="azure-software-licensing-terms"></a>[Azure Software Licensing Terms](/legal/information-protection/software-license-terms)
+# <a name="microsoft-developer-agreement"></a>[Microsoft Developer Agreement](MDSA.md)
+# <a name="terms-of-use"></a>[Terms of Use](/legal/termsofuse)
+# <a name="learn-tv-code-of-conduct"></a>[Learn TV Code of Conduct](/legal/learntv/codeofconduct)
+# <a name="terms-of-learn-data-sharing"></a>[Terms of Learn Data Sharing](/legal/learn/reporting/terms)
 
 <!--## [Basque](software-license-terms-eu-es.md) -->
 <!--## [Bulgarian](software-license-terms-bg-bg.md) -->
